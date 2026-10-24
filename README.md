@@ -20,6 +20,6 @@
 
 ## Connect With Me
 - Portfolio: Coming Soon
-- LinkedIn: Add your profile link
+- LinkedIn: 
 
 ⭐ Thanks for visiting my profile!
