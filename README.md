@@ -14,12 +14,12 @@
 - Data Structures
 
 ## My Projects
-- Personal Portfolio Website
-- Calculator
-- Student Management System
+- C Programming Practice
+- Data Structures Using C
+- Personal Portfolio Website (Coming Soon)
 
 ## Connect With Me
 - Portfolio: Coming Soon
-- LinkedIn: 
+- GitHub: [Visit My Profile](https://github.com/myrnd-nikhil) 
 
 ⭐ Thanks for visiting my profile!
